@@ -1,0 +1,23 @@
+
+body {
+    background-color: rgb(143, 204, 176); 
+  }
+  
+  /* Style for the card */
+  .card {
+    background-color:  rgb(102, 230, 134); 
+
+  }
+  .list-group-item
+  {
+   background-color:   rgb(102, 230, 134);;
+  }
+  
+  
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  
+  }
